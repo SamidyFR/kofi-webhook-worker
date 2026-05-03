@@ -30,5 +30,5 @@ A lightweight, serverless middleware designed for [Cloudflare Workers](https://w
 1. Go to your [Ko-Fi Dashboard](https://ko-fi.com/manage).
 2. On the sidebar, Select More > API.
 3. In the Webhooks section, paste your Cloudflare Worker URL.
-[![img5](https://m.samidy.com/img5.png)]
+![img5](https://m.samidy.com/img5.png)
 4. Click Update or Save.
